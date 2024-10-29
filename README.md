@@ -4,8 +4,7 @@ This project main goal is tracking and counting the cars, from the satellite cam
 
 The model right now just for the first version, it can track and count cars, buses.
 
-
-
+Please work on the jupyter notebook or google colab
 
 #
 Work On Your PC
